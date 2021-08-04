@@ -6,6 +6,8 @@
 	--accent-color: #d49466;
 	
 	--ad_size:300px;
+	--product_img_size_height: 300px;
+	--product_img_size_width: 300px; 
 }
 
 .navbar {
@@ -114,6 +116,39 @@ a {
 	height: 300px; 
 	width: var(--ad_size);
 }
+
+
+.diary_imgs {
+	display: flex;
+	justify-content: center;
+	
+}
+
+.diary_img {
+	margin: 10px;
+	height: var(--product_img_size_height);
+	width: var(--product_img_size_width);
+}
+
+
+.sticker_item_title {
+	margin-top: 30px;
+	display: flex;
+	justify-content: center;
+}
+
+.sticker_imgs {
+	display: flex;
+	justify-content: center;
+	
+}
+
+.sticker_img {
+	margin: 10px;
+	height: var(--product_img_size_height);
+	width: var(--product_img_size_width);
+}
+
 
 
 @media screen and (max-width: 783px) {
