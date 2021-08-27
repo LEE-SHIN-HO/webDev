@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <link rel="stylesheet" type="text/css" href="main.css">
 <script src="main.js" defer></script>
-<title>신호호호 다이어리</title>
+<title>신호 다이어리</title>
 </head>
 <body>
 	
