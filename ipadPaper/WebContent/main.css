@@ -5,7 +5,7 @@
 	--background-color: #263343;
 	--accent-color: #d49466;
 	
-	--ad_size:300px;
+	--ad_size:600px;
 	--product_img_size_height: 300px;
 	--product_img_size_width: 300px; 
 }
@@ -81,6 +81,7 @@ a {
 	padding: 0px;
 	margin: 0px;
 	text-align: center;
+	width: var(--ad_size);
 }
 
 

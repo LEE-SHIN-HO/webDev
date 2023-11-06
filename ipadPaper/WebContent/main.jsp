@@ -31,6 +31,7 @@
 
 		<a class="nav_toggle" href="#">
 			...
+			<span class="icon-bar"></span>
 		</a>		
 	</nav>
 	<div class="ad_container">
